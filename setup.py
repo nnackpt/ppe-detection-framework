@@ -11,7 +11,7 @@ setup(
     description="A comprehensive PPE detection framework using YOLO",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/nnackpt/ppe-detection-framework",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
